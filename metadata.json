@@ -1,6 +1,10 @@
 {
   "name": "JPX MOTION | Kinetic Dark Running & HIIT Platform",
   "description": "Plataforma de alta performance para corrida, caminhada e HIIT com estética Kinetic Dark do Strava, rastreamento GPS e gerador de stickers.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
